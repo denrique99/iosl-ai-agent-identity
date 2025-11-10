@@ -1,7 +1,7 @@
 # IoSL AI Agent Identity
 
 ## Overview
-This project implements a framework for decentralized identity management and authentication for and using AI agents. It includes various components that facilitate the creation, management, and interaction of agents within a decentralized environment.
+This project implements a framework for decentralized identity management and authentication for and using AI agents. It includes various components that facilitate the creation, management, and interaction of agents within a decentralized environment. For a detailed view see "IoSL__AI_Agents_with_Digital_Identities.pdf"
 
 ## Project Structure
 ```
