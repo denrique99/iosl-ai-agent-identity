@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1"
+  ],
+  "type": [
+    "VerifiableCredential",
+    "Agent_bCredential"
+  ],
+  "issuer": "did:indy:bcovrin:test:LhCph21i4xoKLK9Cw8bA5K",
+  "issuanceDate": "2025-06-06T01:23:54Z",
+  "credentialSubject": {
+    "id": "did:indy:bcovrin:test:9G2bmnoBuZMdXFdAWf8tXV",
+    "role": "agent_b",
+    "securityDomain": "domain_b"
+  },
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2025-06-06T01:23:54Z",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:indy:bcovrin:test:LhCph21i4xoKLK9Cw8bA5K#verkey",
+    "jws": "hnEMZXCmuhhR3GRYQ4fPPxa7x68xH0TFu5t9lHXdjsnKtEXnez9EfKZSx5OAyqJdvZkcBNGBFeu3eucXOJPPBg"
+  }
+}
